@@ -14,3 +14,4 @@ if a%3==0:
    print(a," sayısı 3'e bölünür.")
 else:
    print(a, "sayısı 3'e bölünmez.")
+print("Yaşasın codekal")
